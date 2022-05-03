@@ -1,4 +1,4 @@
-baseURL: http://localhost:1313/
+baseURL: https://dawsonchang.github.io/dawson-hugo-blog/
 theme: pure
 title: Pure theme for Hugo
 copyright: CC BY 4.0 CN
